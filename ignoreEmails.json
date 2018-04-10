@@ -5,6 +5,7 @@ emailAddress ={
     "admin@",
     "android@",
     "apple@",
+    "auth@",
     "autorenew@",
     "billing@",
     "cancel@",
@@ -24,6 +25,7 @@ emailAddress ={
     "invite@",
     "jobs@",
     "mailbot@",
+    "mailinglist@",
     "mailorder@",
     "mailer-daemon@",
     "marketing@",
@@ -40,6 +42,7 @@ emailAddress ={
     "orders@",
     "recruiting@",
     "reply@",
+    "room_*@",
     "root@",
     "rsvp@",
     "sales@",
@@ -50,10 +53,13 @@ emailAddress ={
     "support+sales@",
     "talent@",
     "tickets@",
+    "verify@",
     "workflow@",
     "yo@"
   ],
   "domainPart" : [
-    "@hous.craigslist.org"
+    "@alerts.comcast.com",
+    "@*.craigslist.org",
+    "@*.intercom-mail.com"
   ]
 }
