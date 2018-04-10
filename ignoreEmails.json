@@ -1,5 +1,7 @@
 emailAddress ={
   "localPart" : [
+    "account@",
+    "accounts@",
     "admin@",
     "android@",
     "apple@",
@@ -8,6 +10,7 @@ emailAddress ={
     "cancel@",
     "care@",
     "careers@",
+    "confirmation@",
     "contact@",
     "contactus@",
     "contact-us@",
@@ -17,11 +20,14 @@ emailAddress ={
     "hi@",
     "inbox@",
     "info@",
+    "invite@",
     "jobs@",
     "mailbot@",
     "mailorder@",
+    "mailer-daemon@",
     "marketing@",
     "membership@",
+    "leasing@",
     "letters@",
     "listserv@",
     "listsrv@",
@@ -36,12 +42,17 @@ emailAddress ={
     "root@",
     "rsvp@",
     "sales@",
+    "service@",
     "services@",
     "submissions@",
     "support@",
+    "support+sales@",
     "talent@",
     "tickets@",
+    "workflow@",
     "yo@"
   ],
-  "domainPart" : []
+  "domainPart" : [
+    "@hous.craigslist.org"
+  ]
 }
